@@ -1,6 +1,6 @@
 {
   "name": "ngx-text-diff-app",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --open",
@@ -21,7 +21,6 @@
     "node": "12.16.2",
     "npm": "6.12.0"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^9.1.2",
     "@angular/cdk": "^9.2.1",
@@ -70,5 +69,8 @@
     "tslint": "^6.1.1",
     "typescript": "^3.8.3",
     "webpack-bundle-analyzer": "^3.6.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }

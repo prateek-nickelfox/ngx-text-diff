@@ -1,6 +1,6 @@
 {
-  "name": "ngx-text-diff",
-  "version": "0.6.0",
+  "name": "@prateek-nickelfox/ngx-text-diff",
+  "version": "0.0.1",
   "description": "A Text Diff component for Angular.",
   "keywords": [
     "Angular",
@@ -10,8 +10,8 @@
   ],
   "license": "MIT",
   "author": {
-    "name": "Alfredo Benassi",
-    "email": "alfrebenassi@gmail.com"
+    "name": "Prateek Tiwari",
+    "email": "prateek.tiwari@nickelfox.com"
   },
   "repository": {
     "type": "git",
